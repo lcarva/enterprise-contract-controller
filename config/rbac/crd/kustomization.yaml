@@ -1,0 +1,3 @@
+resources:
+- enterprisecontractpolicy_editor_role.yaml
+- enterprisecontractpolicy_viewer_role.yaml
